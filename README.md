@@ -1,12 +1,29 @@
-# 🌸 About Me:
-Olá! me chamo Nicole Araújo. Atualmente sou estudante de Sistemas de Informação e Jovem Aprendiz na IBM, onde busco desenvolver minhas habilidades e ampliar meus conhecimentos em tecnologia. Tenho grande interesse por Python, Inteligência Artificial e Desenvolvimento Full Stack. Este perfil reúne projetos, estudos e desafios que fazem parte da minha trajetória. Seja bem-vindo(a)!
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Nicole%20Araújo&fontSize=50&fontColor=FFFFFF&animation=fadeIn" />
+</h1>
 
-# Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## About Me
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Olá, Mundo! Atualmente sou estudante de <font color="#E75480">Sistemas de Informação</font> e Jovem Aprendiz na <font color="#E75480">IBM</font>, onde busco desenvolver minhas habilidades e ampliar meus conhecimentos em tecnologia.
+Tenho grande interesse por <font color="#E75480">Python</font>, <font color="#E75480">IA</font> e Desenvolvimento <font color="#E75480">Full Stack</font>, com o objetivo de construir uma carreira voltada ao desenvolvimento de software e à criação de soluções que gerem impacto por meio da tecnologia.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## Tech Stack
+
+<p align="center">
+  <img src="./assets/HTML5.png" width="88" height="30" style="margin: 0 6px;" />
+  <img src="./assets/CSS3.png" width="88" height="30" style="margin: 0 6px;" />
+  <img src="./assets/PYTHON.png" width="88" height="30" style="margin: 0 6px;" />
+  <img src="./assets/POWERBI.png" width="88" height="30" style="margin: 0 6px;" />
+</p>
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
