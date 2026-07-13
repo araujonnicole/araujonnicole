@@ -7,7 +7,6 @@
 Olá, Mundo! Atualmente sou estudante de <span style="color:#E75480"><b>Sistemas de Informação</b></span> e Jovem Aprendiz na <span style="color:#E75480"><b>IBM</b></span>, onde busco desenvolver minhas habilidades e ampliar meus conhecimentos em tecnologia.
 Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <span style="color:#E75480"><b>IA</b></span> e Desenvolvimento <span style="color:#E75480"><b>Full Stack</b></span>, com o objetivo de construir uma carreira voltada ao desenvolvimento de software e à criação de soluções que gerem impacto por meio da tecnologia.
 
-<br>
 
 ## Tech Stack
 
