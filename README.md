@@ -12,18 +12,23 @@ Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <sp
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/HTML5.png" height="30" style="margin: 0 6px;" />
-  <img src="./assets/CSS3.png" height="30" style="margin: 0 6px;" />
-  <img src="./assets/PYTHON.png" height="30" style="margin: 0 6px;" />
-  <img src="./assets/POWERBI.png" height="30" style="margin: 0 6px;" />
-
-<br>
+  <img src="./assets/HTML5.png" height="45" style="margin: 0 6px;" />
+  <img src="./assets/CSS3.png" height="45" style="margin: 0 6px;" />
+  <img src="./assets/PYTHON.png" height="45" style="margin: 0 6px;" />
+  <img src="./assets/POWERBI.png" height="45" style="margin: 0 6px;" />
+</p>
 
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
   <img src="https://github-readme-stats.shion.dev/api?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" width="49%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" width="100%" />
 </p>
 
 ## Contribution
