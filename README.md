@@ -27,7 +27,7 @@ Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <sp
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" width="60%" />
 </p>
 
 ## Contribution
