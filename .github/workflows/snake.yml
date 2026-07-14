@@ -18,9 +18,7 @@ jobs:
         id: snake
         with:
           github_user_name: araujonnicole
-          outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#E75480"
-          color_dots: "#FFF0F5,#FFD1DC,#FFB6C1,#FF69B4,#E75480"
+          outputs: "dist/github-contribution-grid-snake.svg?color_snake=E75480&color_dots=FFF0F5,FFD1DC,FFB6C1,FF69B4,E75480"
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
