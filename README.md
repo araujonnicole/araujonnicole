@@ -17,19 +17,6 @@ Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <sp
   <img src="./assets/POWERBI.png" height="45" style="margin: 0 6px;" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api?username=araujonnicole&theme=rose&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=araujonnicole&theme=rose&hide_border=false" width="60%" />
-</p>
-
 ## Contribution
 
 <p align="center">
