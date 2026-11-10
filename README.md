@@ -22,7 +22,7 @@ Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <sp
 
 **Na prática:** web scraping, consumo de APIs REST, banco de dados SQL, automação de tarefas, testes automatizados.
 
-**Estudando:** MySQL
+**Estudando:** MySQL, SQL.
 
 ## Projetos
 
