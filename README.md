@@ -15,8 +15,8 @@ Tenho grande interesse por <span style="color:#E75480"><b>Python</b></span>, <sp
   <img src="./assets/CSS.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/PYTHON.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/PYTEST.png" height="45" style="margin: 0 6px;" />
-  <img src="./assets/SQLITE.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/SQL.png" height="45" style="margin: 0 6px;" />
+  <img src="./assets/SQLITE.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/GIT.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/GITHUB.png" height="45" style="margin: 0 6px;" />
   <img src="./assets/VSCODE.png" height="45" style="margin: 0 6px;" />
